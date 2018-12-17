@@ -1,0 +1,85 @@
+.articleTeamHeader {
+    border: 1px solid #c5c5c5;
+    border-bottom: 0;
+    background-color: #fff;
+    margin: 5px 5px 0 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .left {
+        width: 57px;
+        height: 50px;
+        background-size: 65% !important;
+        background-repeat: no-repeat !important;
+        background-position: center center !important;
+    }
+
+    .right {
+        flex-grow: 1;
+        padding-left: 10px;
+        font-size: 10px;
+        font-weight: 30px;
+    }
+}
+
+.articlePostData {
+    border: 1px solid #c5c5c5;;
+    border-bottom: 0;
+    background-color: #fff;
+    margin: 0 5px;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 300px;
+}
+
+.articlePostData span {
+    font-weight: 500;
+}
+
+.articleBody {
+    background-color: #fff;
+    margin: 0 5px;
+    border: 1px solid #c5c5c5;
+    padding: 10px;
+
+    h1 {
+        font-size: 25px;
+        font-weight: 400px;
+        color: #4d4d4d;
+        margin: 15px 0;
+    }
+
+    .articleImage {
+        background-size: cover !important;
+        background-position: center center !important;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 200px;
+    }
+
+    .articleText{
+        font-weight: 300px;
+        color: #666;
+        line-height: 23px;
+        margin: 15px 0;
+    }
+}
+
+.videoWrapper {
+    background-color: #fff;
+    margin: 0 5px;
+    border: 1px solid #c5c5c5;
+
+    h1 {
+        font-size: 25px;
+        font-weight: 400px;
+        color: #4d4d4d;
+        margin: 15px 0;
+        padding: 0 10px;
+    }
+
+    iframe {
+        border: 0;
+    }
+}

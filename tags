@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+class.Component.article	src/components/Articles/Videos/Video/index.js	/^        article : [],$/;"	p
+class.article	src/components/Articles/News/Post/index.js	/^        article : [],$/;"	p
+class.news	src/components/widgets/NewsSlider/slider.js	/^        news: []$/;"	p
+class.showNav	src/hoc/Layout/layout.js	/^        showNav: false$/;"	p
+class.teams	src/components/widgets/NewsList/newsList.js	/^        teams:[],$/;"	p
+class.teams	src/components/widgets/VideosList/videosList.js	/^        teams:[],$/;"	p
+config.apiKey	src/firebase.js	/^    apiKey: "AIzaSyDMS6uHyi3oUbHAYng7yRJOjALoWzDsJag",$/;"	p
+config.authDomain	src/firebase.js	/^    authDomain: "form-test-c3be7.firebaseapp.com",$/;"	p
+config.databaseURL	src/firebase.js	/^    databaseURL: "https:\/\/form-test-c3be7.firebaseio.com",$/;"	p
+config.messagingSenderId	src/firebase.js	/^    messagingSenderId: "1062810265898"$/;"	p
+config.projectId	src/firebase.js	/^    projectId: "form-test-c3be7",$/;"	p
+config.storageBucket	src/firebase.js	/^    storageBucket: "form-test-c3be7.appspot.com",$/;"	p
+const.arrows	src/components/widgets/NewsSlider/slider_templates.js	/^        arrows:false,$/;"	p
+const.dots	src/components/widgets/NewsSlider/slider_templates.js	/^        dots:true,$/;"	p
+const.infinite	src/components/widgets/NewsSlider/slider_templates.js	/^        infinite:true,$/;"	p
+const.slidesToScroll	src/components/widgets/NewsSlider/slider_templates.js	/^        slidesToScroll:1,$/;"	p
+const.slidesToShow	src/components/widgets/NewsSlider/slider_templates.js	/^        slidesToShow:1,$/;"	p
+const.speed	src/components/widgets/NewsSlider/slider_templates.js	/^        speed: 500,$/;"	p
